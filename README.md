@@ -4,7 +4,8 @@ The aim of this project is to do a deep analysis on a dataset in order to achiev
 The aim of our analysis is to answer at the following question: May the length of a post influence its reading and consequently also the number of comments and shares it will receive? <br>
 For answering to this problem, we walked through two different preliminary phases: <br>
 - Data Cleaning of the dataset,
-- Exploratory analysis. <br>
+- Exploratory analysis. 
+<br>
 After these we performed two Machine Learning technics named Supervised Learning and Unsupervised Learning to predict which will be the shares for a post in the future. <br>
 First of all, we considered a significant number of datasets, each of which very interesting as in terms of topics covered as for their attribute’s configuration. We gradually discarded some of them, keeping all sets that at the same time had a better structure and aroused our interest. <br>
 In the end we opted for "Facebook Comment Volume". <br>
